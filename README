@@ -1,1 +1,16 @@
-Building a food nutrition analyzer using computer vision
+# WhatDidIEat
+
+WhatDidIEat is a personal food tracking application designed to help you log and review your daily meals. Easily keep track of what you eat, analyze your eating habits, and make healthier choices.
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Run the application:
+    ```
+    uvicorn app:app --reload
+    ```
+4. POST an image to `/analyze` endpoint to get food detections and nutritional information.
