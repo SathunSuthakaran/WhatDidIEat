@@ -6,11 +6,11 @@ WhatDidIEat is a personal food tracking application designed to help you log and
 
 1. Clone the repository
 2. Install dependencies:
-    ```
+```
     pip install -r requirements.txt
-    ```
+```
 3. Run the application:
-    ```
+```
     uvicorn app:app --reload
-    ```
+```
 4. POST an image to `/analyze` endpoint to get food detections and nutritional information.
