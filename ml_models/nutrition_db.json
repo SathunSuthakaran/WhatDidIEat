@@ -1,0 +1,12 @@
+{
+  "pizza": {"calories": 285, "protein": 12, "carbs": 36, "fat": 10},
+  "burger": {"calories": 354, "protein": 17, "carbs": 29, "fat": 20},
+  "hot dog": {"calories": 150, "protein": 5, "carbs": 2, "fat": 13},
+  "sandwich": {"calories": 300, "protein": 14, "carbs": 30, "fat": 12},
+  "salad": {"calories": 150, "protein": 5, "carbs": 10, "fat": 8},
+  "fries": {"calories": 365, "protein": 3, "carbs": 63, "fat": 17},
+  "apple": {"calories": 95, "protein": 0.5, "carbs": 25, "fat": 0.3},
+  "banana": {"calories": 105, "protein": 1.3, "carbs": 27, "fat": 0.3},
+  "donut": {"calories": 195, "protein": 2, "carbs": 22, "fat": 11},
+  "cake": {"calories": 235, "protein": 3, "carbs": 35, "fat": 10}
+}
